@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "KC Grün",
+  "version": "0.1",
+  "content_scripts": [
+	  {
+	    "matches": [
+	      "http://krautchan.net/*",
+	      "http://krautchan.net/"
+	    ],
+	    "css": ["main.css"],
+	    "js": ["jquery.js","content.js"]
+	  }
+	]
+}

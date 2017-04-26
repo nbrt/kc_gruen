@@ -1,0 +1,76 @@
+html {
+	color:#FFFFFF !important;
+}
+body {
+	background:#3b463c !important;
+}
+h1 {
+	color:#FFFFFF !important;
+}
+h2 {
+	background:#1c261d !important;
+}
+a {
+	color:#00a102 !important;
+}
+nav {
+	background:#1c261d !important;
+}
+table.postform td.label {
+	background:#1c261d !important;
+}
+.postername {
+	color:#00a102 !important;
+}
+.file_thread {
+	background:#1c261d !important;
+}
+.postbody {
+	color:#FFFFFF !important;
+}
+.postsubject {
+
+}
+.postreply {
+	background:#1c261d !important;
+	border:1px solid #FFFFFF;
+}
+.post_replys {
+	display: inline-block;
+    position: relative;
+}
+.quote {
+	color:#007777 !important;
+}
+.reply-link {
+	text-decoration:none;
+	font-style:italic;
+}
+.reply-link:hover {
+	font-weight:bold;
+}
+.file_reply {
+	background:#3c3c3c !important;
+	border:1px solid #FFFFFF !important;
+}
+.postreply_highlighted {
+	background:#5f0000 !important;
+}
+.reply-overlay {
+	position:absolute;
+}
+.reply-overlay-inner {
+	position:relative;
+}
+.reply-overlay-inner table tbody tr td:first-child {
+	display:none;
+}
+
+
+/* CATALOG */
+.teaser {
+	border:1px solid #FFFFFF !important;
+}
+.teaser:hover .post, .teaser:focus .post {
+	background:#1c261d !important;
+}
